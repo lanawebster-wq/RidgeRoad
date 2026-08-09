@@ -1,2 +1,2 @@
-# RidgeRoad
-Ridge Road Panos
+# 73-ridge-road Pano
+
